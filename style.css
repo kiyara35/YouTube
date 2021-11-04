@@ -1,0 +1,64 @@
+form {
+    padding: 50px 0 0 50px;
+    align-items: center;
+    position: relative;
+}
+
+button {
+    padding: 5px 0;
+    width: 100px;
+    border-radius: 6px;
+    border: 1px solid;
+}
+
+.video__box {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+
+}
+
+.text {
+    margin-left: 20px;
+    padding: 25px 0;
+}
+
+.name {
+    font-size: 20px;
+}
+
+#output {
+    padding: 50px;
+}
+
+iframe {
+    border: none;
+    height: 200px;
+}
+
+input {
+    width: 400px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    border: 1px solid;
+}
+
+.channel {
+    font-weight: bolder;
+}
+
+.voice {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+    bottom: 0;
+    padding: 3px;
+}
+.youtube{
+    width: 20px;
+    height: 20px;
+}
